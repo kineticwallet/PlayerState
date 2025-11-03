@@ -23,6 +23,7 @@ A modern player data management system for Roblox games featuring ProfileService
 ### Option 2: Manual Installation
 
 *Clone or download this repository*
+
 git clone https://github.com/bellaouzo/PlayerState.git
 
 ### Option 3: GitHub Cloning Plugin
